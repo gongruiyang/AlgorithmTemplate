@@ -1,4 +1,3 @@
-
 const int N = 1e5 + 10;
 /*
 head : 表示头结点的下标，即第一个有效节点的地址（下标）
@@ -13,6 +12,7 @@ void init()
 	head = -1;
 	idx = 0;
 }
+
 /*  
 头插法：
 head -> x -> O
@@ -26,9 +26,7 @@ void add_to_head(int x)
 	idx++;  // 更新idx
 }
 
-
 // 将x插入到下标是k的节点后边
-
 void add(int k, int x)
 {
 	e[idx] = x;     // 初始化idx中保存的值
