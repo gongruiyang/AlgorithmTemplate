@@ -1,5 +1,5 @@
 
-#include "AcWing/ACW1715.h"
+#include "AcWing/ACW3347.h"
 
 int main() {
     solution();

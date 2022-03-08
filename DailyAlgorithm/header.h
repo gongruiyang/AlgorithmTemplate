@@ -6,5 +6,6 @@
 #include <cstring>
 #include <queue>
 #include <cmath>
+#include <deque>
 
 using namespace std;

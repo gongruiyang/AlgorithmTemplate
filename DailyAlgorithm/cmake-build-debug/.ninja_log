@@ -1,8 +1,4 @@
 # ninja log v5
-0	214	6660203885574139	build.ninja	a94e434a2017f6c5
-5	741	6660054155782026	CMakeFiles/DailyAlgorithm.dir/main.cpp.obj	18ad4f8f33fa4684
-743	1034	6660054158671456	DailyAlgorithm.exe	f58ea73f30bc6744
-5	1196	6660260693544590	CMakeFiles/DailyAlgorithm.dir/main.cpp.obj	18ad4f8f33fa4684
-1197	1771	6660260699233959	DailyAlgorithm.exe	f58ea73f30bc6744
-5	472	6660261328192922	CMakeFiles/DailyAlgorithm.dir/main.cpp.obj	18ad4f8f33fa4684
-473	676	6660261330201130	DailyAlgorithm.exe	f58ea73f30bc6744
+0	214	6676633119144270	build.ninja	a94e434a2017f6c5
+5	782	6668725178234022	CMakeFiles/DailyAlgorithm.dir/main.cpp.obj	18ad4f8f33fa4684
+783	1099	6668725181382060	DailyAlgorithm.exe	f58ea73f30bc6744
