@@ -1,8 +1,12 @@
 
-#include "AcWing/ACW3347.h"
+#include "header.h"
+
+
 
 int main() {
-    solution();
+
+    
+
 
     return 0;
 }
